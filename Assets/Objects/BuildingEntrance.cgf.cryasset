@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="dc3a41df-487b-28e7-b402-ab9dace609a4" source="BuildingEntrance.fbx">
+ <Files>
+  <File path="BuildingEntrance.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">2</Detail>
+  <Detail name="triangleCount">324</Detail>
+  <Detail name="vertexCount">632</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">./BuildingEntrance.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

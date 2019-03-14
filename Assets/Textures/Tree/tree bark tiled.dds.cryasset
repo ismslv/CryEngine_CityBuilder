@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="e5352b89-11f7-d265-0332-ccd709b1f910" source="tree bark tiled.tif">
+ <Files>
+  <File path="tree bark tiled.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">256</Detail>
+  <Detail name="height">256</Detail>
+  <Detail name="mipCount">7</Detail>
+ </Details>
+</AssetMetadata>

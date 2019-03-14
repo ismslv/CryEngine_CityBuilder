@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="99728fdb-e8af-a03b-8dad-7e0611e1e239" source="Building.dae">
+ <Files>
+  <File path="building.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">100</Detail>
+  <Detail name="triangleCount">66486</Detail>
+  <Detail name="vertexCount">109738</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">./Building.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="55ef7c7e-39bf-e257-0ded-dcd0bd6202ab" source="Tree.dae">
+ <Files>
+  <File path="tree.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">100</Detail>
+  <Detail name="triangleCount">497</Detail>
+  <Detail name="vertexCount">659</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">./Tree.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

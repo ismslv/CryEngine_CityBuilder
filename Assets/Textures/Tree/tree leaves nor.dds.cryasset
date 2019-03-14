@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="3701e45d-96f2-1338-d739-cf16f86015f4" source="tree leaves nor.tif">
+ <Files>
+  <File path="tree leaves nor.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">1024</Detail>
+  <Detail name="height">1024</Detail>
+  <Detail name="mipCount">9</Detail>
+ </Details>
+</AssetMetadata>

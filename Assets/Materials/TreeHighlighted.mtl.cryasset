@@ -1,0 +1,15 @@
+<AssetMetadata version="0" type="Material" guid="750a0104-f6c8-651e-20eb-2ac39bf6793b">
+ <Files>
+  <File path="TreeHighlighted.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">3</Detail>
+  <Detail name="textureCount">4</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="2">Textures/Tree/tree bark tiled.dds</Path>
+  <Path usageCount="1">Textures/Tree/tree bark nor2.dds</Path>
+  <Path usageCount="1">Textures/Tree/treeleaves.dds</Path>
+  <Path usageCount="1">Textures/Tree/tree leaves nor.dds</Path>
+ </Dependencies>
+</AssetMetadata>

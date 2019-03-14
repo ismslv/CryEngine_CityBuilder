@@ -1,0 +1,8 @@
+<AssetMetadata version="0" type="Xml" guid="c9d62516-96be-bbfc-618d-b10d79920b1a">
+ <Files>
+  <File path="fps_demo.xml"/>
+ </Files>
+ <Details>
+  <Detail name="rootTag">EnvironmentPreset</Detail>
+ </Details>
+</AssetMetadata>

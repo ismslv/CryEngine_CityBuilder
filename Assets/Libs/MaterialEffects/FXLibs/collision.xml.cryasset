@@ -1,0 +1,8 @@
+<AssetMetadata version="0" type="Xml" guid="00a5a351-83c0-86f5-6cb7-5252806c0fee">
+ <Files>
+  <File path="collision.xml"/>
+ </Files>
+ <Details>
+  <Detail name="rootTag">FXLib</Detail>
+ </Details>
+</AssetMetadata>

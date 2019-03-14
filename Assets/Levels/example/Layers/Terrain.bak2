@@ -1,0 +1,3 @@
+<ObjectLayer>
+ <Layer Name="Terrain" FullName="Terrain" GUID="f7b84ced-a7a0-e7e6-e7f4-513cb8e2dd62" Hidden="0" Frozen="0" Expanded="0" Type="2" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1"/>
+</ObjectLayer>

@@ -1,0 +1,13 @@
+<AssetMetadata version="0" type="Material" guid="dca10890-01a3-123b-a8bf-7a7026e49f48">
+ <Files>
+  <File path="buildingentrance.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">0</Detail>
+  <Detail name="textureCount">2</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">%ENGINE%/EngineAssets/Textures/white.dds</Path>
+  <Path usageCount="1">%ENGINE%/EngineAssets/Textures/white_ddn.dds</Path>
+ </Dependencies>
+</AssetMetadata>

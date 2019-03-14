@@ -1,0 +1,29 @@
+<Material MtlFlags="524544" vertModifType="0">
+ <SubMaterials>
+  <Material Name="Sub-Material-1" MtlFlags="524418" Shader="Vegetation" GenMask="2400400000" StringGenMask="%NORMAL_MAP%TEMP_VEGETATION%VERTCOLORS" SurfaceType="mat_default" MatTemplate="" Diffuse="0.13725491,0.68235296,0.015686275" Emittance="1,1,1,2" Opacity="1" AlphaTest="0.84126967" FurAmount="255" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Textures/Tree/treeleaves.dds"/>
+    <Texture Map="Bumpmap" File="Textures/Tree/tree leaves nor.dds"/>
+   </Textures>
+   <PublicParams bendDetailLeafAmplitude="1" bendDetailFrequency="0" bendDetailBranchAmplitude="-0.5" BlendTerrainCol="0" VertexAlphaBlendFactor="1" BlendTerrainColDist="0.5"/>
+  </Material>
+  <Material Name="Material" MtlFlags="524416" Shader="Illum" GenMask="C0400000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_default" MatTemplate="" Diffuse="1,1,1" Specular="1,0.87238878,0.65674829" Emittance="1,1,1,2" Opacity="1" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Textures/Tree/tree bark tiled.dds">
+     <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TileU="10" TileV="10"/>
+    </Texture>
+    <Texture Map="Bumpmap" File="Textures/Tree/tree bark nor2.dds">
+     <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TileU="10" TileV="10"/>
+    </Texture>
+    <Texture Map="Specular" File="Textures/Tree/tree bark tiled.dds">
+     <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TileU="10" TileV="10"/>
+    </Texture>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="proxy" MtlFlags="525440" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="" MatTemplate="" Diffuse="0.80000001,0.80000001,0.80000001" Specular="1,1,1" Shininess="50.000023" vertModifType="0" LayerAct="1">
+   <Textures />
+  </Material>
+ </SubMaterials>
+ <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+</Material>

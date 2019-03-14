@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="6e4cf2a5-1d7b-dde9-0b94-28d0a2c15d4b" source="treeleaves.tif">
+ <Files>
+  <File path="treeleaves.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">1024</Detail>
+  <Detail name="height">1024</Detail>
+  <Detail name="mipCount">9</Detail>
+ </Details>
+</AssetMetadata>
